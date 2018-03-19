@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HelloARVideo/Scenes/HelloARVideo.unity
+  isLoaded: 1
+  isActive: 1
